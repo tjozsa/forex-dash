@@ -1,5 +1,12 @@
 # forex-dashboard
 
+create a .env file and fill it accordingly
+
+```
+VUE_APP_OANDA_ACCOUNT_NUMBER=
+VUE_APP_OANDA_TOKEN=
+```
+
 ## Project setup
 ```
 npm install
