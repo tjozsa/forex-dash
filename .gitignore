@@ -20,3 +20,6 @@ yarn-error.log*
 *.sln
 *.sw*
 *.env
+
+#environment variables should never be checked in
+*.env
